@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^0.12.2"
+    "klass": "^1.4.0",
+    "lodash": "^3.0.1",
+    "react": "^0.12.2",
+    "webpack": "^1.5.3"
   }
 }
